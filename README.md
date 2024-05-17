@@ -1,17 +1,18 @@
 # webstack-Portfolio-Project 
-Bee ChatApp,  is a real-time chat application allowing users to send and receive instant text messages.
+# Bee ChatApp,  is a real-time chat application allowing users to send and receive instant text messages.
 Core features: instant messaging, notifications, online statuses, friend lists, and user profiles.
 the technologies  I plan to use for building ChatApp:
 Front-end: HTML, CSS, JavaScript + a JavaScript framework of your choice
 Backend: Node.js (explore other options based on your learning)
-Database: Relational database (e.g., MySQL) or NoSQL (e.g., MongoDB).
+# # Database:
+Relational database (e.g., MySQL) or NoSQL (e.g., MongoDB).
 I will use third-party services for functionalities (e.g., third-party chat API, push notification service).
 potential challenges I might face:
 Managing real-time communication between users
 Ensuring message and user data security
 Optimizing application performance for a smooth user experience
  
- Work Schedule:
+#  Work Schedule:
 Visual Tool: Use a project management tool like Trello or Kanban to create a clear and organized schedule.
 Schedule Breakdown:
 Phase 1: Planning and Design (3 days)
