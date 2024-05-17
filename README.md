@@ -1,4 +1,4 @@
-# Wwebstack-Portfolio-Project 
+# webstack-Portfolio-Project 
 Bee ChatApp,  is a real-time chat application allowing users to send and receive instant text messages.
 Core features: instant messaging, notifications, online statuses, friend lists, and user profiles.
 the technologies  I plan to use for building ChatApp:
