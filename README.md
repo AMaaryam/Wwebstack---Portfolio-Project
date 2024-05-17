@@ -4,10 +4,10 @@ Core features: instant messaging, notifications, online statuses, friend lists, 
 the technologies  I plan to use for building ChatApp:
 Front-end: HTML, CSS, JavaScript + a JavaScript framework of your choice
 Backend: Node.js (explore other options based on your learning)
-# # Database:
+ # Database:
 Relational database (e.g., MySQL) or NoSQL (e.g., MongoDB).
 I will use third-party services for functionalities (e.g., third-party chat API, push notification service).
-potential challenges I might face:
+# potential challenges I might face:
 Managing real-time communication between users
 Ensuring message and user data security
 Optimizing application performance for a smooth user experience
